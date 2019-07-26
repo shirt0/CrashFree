@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crash Free</string>
+    <string name="oops">OOPS! There something wrong happned,We will fix it soon</string>
+    <string name="restart_app">RESTART APP</string>
+</resources>
